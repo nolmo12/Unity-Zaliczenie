@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Studia\\Unity Zaliczenie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42BD85B4-1550-CC54-D7AA-F12ECB2B0780}|Assembly-CSharp.csproj|G:\\Studia\\Unity Zaliczenie\\assets\\components\\entities\\mobs\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BD85B4-1550-CC54-D7AA-F12ECB2B0780}|Assembly-CSharp.csproj|solutionrelative:assets\\components\\entities\\mobs\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BD85B4-1550-CC54-D7AA-F12ECB2B0780}|Assembly-CSharp.csproj|G:\\Studia\\Unity Zaliczenie\\assets\\components\\entities\\items\\weapons\\rangedweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BD85B4-1550-CC54-D7AA-F12ECB2B0780}|Assembly-CSharp.csproj|solutionrelative:assets\\components\\entities\\items\\weapons\\rangedweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BD85B4-1550-CC54-D7AA-F12ECB2B0780}|Assembly-CSharp.csproj|G:\\Studia\\Unity Zaliczenie\\assets\\components\\entities\\mobs\\monsters\\rangemonster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BD85B4-1550-CC54-D7AA-F12ECB2B0780}|Assembly-CSharp.csproj|solutionrelative:assets\\components\\entities\\mobs\\monsters\\rangemonster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BD85B4-1550-CC54-D7AA-F12ECB2B0780}|Assembly-CSharp.csproj|g:\\studia\\unity zaliczenie\\assets\\components\\entities\\mobs\\monsters\\basicmonster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BD85B4-1550-CC54-D7AA-F12ECB2B0780}|Assembly-CSharp.csproj|solutionrelative:assets\\components\\entities\\mobs\\monsters\\basicmonster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BD85B4-1550-CC54-D7AA-F12ECB2B0780}|Assembly-CSharp.csproj|G:\\Studia\\Unity Zaliczenie\\assets\\components\\gamedirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BD85B4-1550-CC54-D7AA-F12ECB2B0780}|Assembly-CSharp.csproj|solutionrelative:assets\\components\\gamedirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BD85B4-1550-CC54-D7AA-F12ECB2B0780}|Assembly-CSharp.csproj|G:\\Studia\\Unity Zaliczenie\\assets\\hudmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BD85B4-1550-CC54-D7AA-F12ECB2B0780}|Assembly-CSharp.csproj|solutionrelative:assets\\hudmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BD85B4-1550-CC54-D7AA-F12ECB2B0780}|Assembly-CSharp.csproj|G:\\Studia\\Unity Zaliczenie\\assets\\components\\entities\\entitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BD85B4-1550-CC54-D7AA-F12ECB2B0780}|Assembly-CSharp.csproj|solutionrelative:assets\\components\\entities\\entitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RangedWeapon.cs",
+              "DocumentMoniker": "G:\\Studia\\Unity Zaliczenie\\Assets\\Components\\Entities\\Items\\Weapons\\RangedWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Components\\Entities\\Items\\Weapons\\RangedWeapon.cs",
+              "ToolTip": "G:\\Studia\\Unity Zaliczenie\\Assets\\Components\\Entities\\Items\\Weapons\\RangedWeapon.cs",
+              "RelativeToolTip": "Assets\\Components\\Entities\\Items\\Weapons\\RangedWeapon.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAkwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:19:14.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RangeMonster.cs",
+              "DocumentMoniker": "G:\\Studia\\Unity Zaliczenie\\Assets\\Components\\Entities\\Mobs\\Monsters\\RangeMonster.cs",
+              "RelativeDocumentMoniker": "Assets\\Components\\Entities\\Mobs\\Monsters\\RangeMonster.cs",
+              "ToolTip": "G:\\Studia\\Unity Zaliczenie\\Assets\\Components\\Entities\\Mobs\\Monsters\\RangeMonster.cs",
+              "RelativeToolTip": "Assets\\Components\\Entities\\Mobs\\Monsters\\RangeMonster.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:17:05.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HudManager.cs",
+              "DocumentMoniker": "G:\\Studia\\Unity Zaliczenie\\Assets\\HudManager.cs",
+              "RelativeDocumentMoniker": "Assets\\HudManager.cs",
+              "ToolTip": "G:\\Studia\\Unity Zaliczenie\\Assets\\HudManager.cs",
+              "RelativeToolTip": "Assets\\HudManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:50:04.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BasicMonster.cs",
+              "DocumentMoniker": "G:\\Studia\\Unity Zaliczenie\\Assets\\Components\\Entities\\Mobs\\Monsters\\BasicMonster.cs",
+              "RelativeDocumentMoniker": "Assets\\Components\\Entities\\Mobs\\Monsters\\BasicMonster.cs",
+              "ToolTip": "G:\\Studia\\Unity Zaliczenie\\Assets\\Components\\Entities\\Mobs\\Monsters\\BasicMonster.cs",
+              "RelativeToolTip": "Assets\\Components\\Entities\\Mobs\\Monsters\\BasicMonster.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:04:08.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EntityController.cs",
+              "DocumentMoniker": "G:\\Studia\\Unity Zaliczenie\\Assets\\Components\\Entities\\EntityController.cs",
+              "RelativeDocumentMoniker": "Assets\\Components\\Entities\\EntityController.cs",
+              "ToolTip": "G:\\Studia\\Unity Zaliczenie\\Assets\\Components\\Entities\\EntityController.cs",
+              "RelativeToolTip": "Assets\\Components\\Entities\\EntityController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:48:03.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameDirector.cs",
+              "DocumentMoniker": "G:\\Studia\\Unity Zaliczenie\\Assets\\Components\\GameDirector.cs",
+              "RelativeDocumentMoniker": "Assets\\Components\\GameDirector.cs",
+              "ToolTip": "G:\\Studia\\Unity Zaliczenie\\Assets\\Components\\GameDirector.cs",
+              "RelativeToolTip": "Assets\\Components\\GameDirector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:43:46.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "G:\\Studia\\Unity Zaliczenie\\Assets\\Components\\Entities\\Mobs\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Components\\Entities\\Mobs\\Player\\Player.cs",
+              "ToolTip": "G:\\Studia\\Unity Zaliczenie\\Assets\\Components\\Entities\\Mobs\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\Components\\Entities\\Mobs\\Player\\Player.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAwwIMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:12:24.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
